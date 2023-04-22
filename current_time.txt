@@ -1,0 +1,4 @@
+Current time in edupage.
+Response: JSON
+
+URL : https://besst.edupage.org/chat/quick?cmd=time
